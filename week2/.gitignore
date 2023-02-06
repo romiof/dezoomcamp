@@ -1,9 +1,11 @@
-# Folders and csv / gz
+# Folders and datasets
 *.gz
 *.csv
-data/
+*.parquet
 flows/02_gcp/data/
-
+flows/03_deployments/data
+homework/hw_data/
+examples/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
