@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/misc
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/513814948/5a2cc2f5-b4cd-4584-9c62-a6ea97ed0e6a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230123T202047Z&X-Amz-Expires=300&X-Amz-Signature=f5ede7196d5fbf1f4072c9b73d3c393fa71e55dda144b4a47e9b3b329342aec0&X-Amz-SignedHeaders=host&actor_id=54966010&key_id=0&repo_id=513814948&response-content-disposition=attachment%3B%20filename%3Dtaxi_zone_lookup.csv&response-content-type=application%2Foctet-stream
